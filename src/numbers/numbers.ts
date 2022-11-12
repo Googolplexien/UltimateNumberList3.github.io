@@ -880,7 +880,7 @@ const NumberList: Chapters = [
                                         symbols: []
                                     },
                                     {
-                                        word: "Millillion",
+                                        word: "Millinillion",
                                         number: "10^3003",
                                         symbols: [
                                             "milestone",
@@ -895,6 +895,11 @@ const NumberList: Chapters = [
                                     {
                                         word: "Googolbell",
                                         number: "10^5000",
+                                        symbols: [
+                                    },
+                                    {
+                                        word: "Duomillinillion",
+                                        number: "10^6003",
                                         symbols: [
                                             "notknown"
                                         ]
